@@ -1,32 +1,11 @@
-### Hi there 👋
+#### https://monkeywithbrain.in/en/educational/ISSCCedu
+<!--### Hi there 👋
 #### I have managed to collect the past ISSCC short-courses and tutorials and made it available to everyone who seeks it through this page. Some year's files are missing, in case you have it and you wish to contribute, please do not hesitate to contact me via email 📧: nishanchettri@gmail.com
 ##### P.S. These files are shared for educational purposes only. If the respective authors or the organizations suspect any copyright breach, I would not have any problems in removing the content. Please contact me via email above.😊
-<!--
-**nishanchettri/nishanchettri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
-# Namaste, I am Nishan Chettri! 👋
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishanchettri/)
 
-## Study Material
-
-- Analog IC Design Basics
-- ADCs (Analog/Digital Converters)
-- Power management basics
-
--->
 
 ## ISSCC Courses
 | Title                                               | Year  | Instructor | Affiliation  | Type |
@@ -206,7 +185,7 @@ Here are some ideas to get you started:
 | [Domain-Specific Accelerators: From Hardware to System](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T9.pdf)  | 2024  | Sophia Shao | University of California, Berkeley | Tutorial |
 | [Fundamentals of Transceivers for Communication and Sensing](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T10.pdf)  | 2024  | Giuseppe Gramegna | IMEC | Tutorial |
 
-
+-->
 
 
 
